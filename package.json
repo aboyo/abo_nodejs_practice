@@ -1,0 +1,24 @@
+{
+  "name": "cyrdg_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise.js",
+  "bin": {
+    "clawer": "./clawer.js"
+  },
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "commander": "^7.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
