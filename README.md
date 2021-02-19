@@ -9,8 +9,8 @@
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd cyrdg_exercise
-npm install
+$ cd cyrdg_exercise
+$ npm install
 ```
 
 ## Dependencies
