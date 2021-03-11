@@ -1,6 +1,4 @@
-# cyrdg_exercise
-
-## _exercise for cyrdg_
+# abo_nodejs_practice
 
 以 Node.js 環境開發，並使用 JacaScript 實作功能。
 
